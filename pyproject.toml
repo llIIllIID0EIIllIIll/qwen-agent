@@ -1,0 +1,11 @@
+[project]
+name = "qwen-hybrid-agent"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "prompt-toolkit>=3.0.53",
+    "rich>=15.0.0",
+    "textual>=8.2.8",
+]
